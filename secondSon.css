@@ -1,0 +1,21 @@
+.main-nav1 {
+  color: red;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.nav1 {
+  display: flex;
+  justify-content: space-around;
+  font-weight: 700;
+  list-style-type: none;
+  margin: 0 auto;
+  padding: 0;
+  overflow: hidden;
+  float: right;
+}
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}

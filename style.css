@@ -8,3 +8,44 @@
   color: blue;
   font-style: italic;
 }
+.main-nav{
+  color: red;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.nav {
+  display: flex;
+  justify-content: space-around;
+  font-weight: 700;
+  list-style-type: none;
+  margin: 0 auto;
+  padding: 0;
+  overflow: hidden;
+  float: right;
+}
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+header {
+  text-align: center;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
+}
+header {
+  line-height: 1.5;
+}
+header .main-pic {
+  margin-top: 50px;
+  width: 400px;
+  height: 300px;
+  border-radius: 50%;
+  border: 3px solid white;
+  transition: all .5s;
+}
+header .main-pic:hover {
+  transform: scale(1.2) rotate(360deg);
+}
