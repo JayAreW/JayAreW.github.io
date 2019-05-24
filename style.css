@@ -1,3 +1,6 @@
+body {
+  background-color: #89cff0;
+}
 #Bradley {
   font-size: 24px;
   color: red;
@@ -29,9 +32,16 @@ a {
   padding: 8px;
   background-color: #dddddd;
 }
-
-#teacher-picture{
+header {
   text-align: center;
+}
+.main-pic{
+  margin-top: 50px;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  border: 3px solid white;
+  transition: all .5s;
 }
 
 
