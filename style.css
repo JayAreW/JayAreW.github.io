@@ -3,7 +3,7 @@ body {
 }
 /* Hyperlink color */
 a {
-  color: seagreen;
+  color: darkorange;
 }
 /* navigation */
 .main-nav{
@@ -43,13 +43,6 @@ header {
 #home-text{
   text-align: center;
 }
-
-/* section{
-  border: 1px;
-  border-style: solid;
-  border-color: black;
-  padding: 1em;
-} */
 #contact {
   text-align: center;
 }
