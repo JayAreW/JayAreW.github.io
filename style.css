@@ -1,16 +1,10 @@
 body {
   background-color: #89cff0;
 }
-#Bradley {
-  font-size: 24px;
-  color: red;
+a {
+  color: #2e8b57;
 }
 
-#Eli {
-  font-size: 35px;
-  color: blue;
-  font-style: italic;
-}
 .main-nav{
   color: red;
   text-align: center;
@@ -27,7 +21,7 @@ body {
   overflow: hidden;
   float: right;
 }
-#nav-text {
+.nav-text {
   display: block;
   padding: 8px;
   background-color: #dddddd;
