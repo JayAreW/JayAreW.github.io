@@ -44,6 +44,15 @@ header {
   text-align: center;
 }
 
+section{
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+  padding: 1em;
+}
+#contact {
+  text-align: center;
+}
 
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
