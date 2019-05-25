@@ -44,12 +44,12 @@ header {
   text-align: center;
 }
 
-section{
+/* section{
   border: 1px;
   border-style: solid;
   border-color: black;
   padding: 1em;
-}
+} */
 #contact {
   text-align: center;
 }
